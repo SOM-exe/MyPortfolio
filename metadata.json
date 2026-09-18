@@ -1,0 +1,6 @@
+{
+  "name": "Shobhit Sharma Portfolio",
+  "description": "A dark, highly polished single-page interactive portfolio landing page for Shobhit Sharma, featuring smooth GSAP and Framer Motion animations, custom HLS video background, and bento structures.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
