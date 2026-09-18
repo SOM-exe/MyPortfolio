@@ -35,18 +35,7 @@ Welcome to the source code of my interactive developer portfolio. Built with mod
 - **Languages:** Java (Data Structures & Algorithms), C++, TypeScript, JavaScript
 - **IoT & Embedded:** Microcontrollers, IMU Sensors, Signal Filtering, Kalman Filters
 
----
 
-## 🏆 Featured Projects
-
-| Project | Category | Key Technologies | Highlights |
-| :--- | :--- | :--- | :--- |
-| **Delhi Breath Air Purifier** | IoT & Environmental Systems | IoT, Microcontrollers, Fuzzy Logic, React Analytics | **SIH 2025 Runner Up** |
-| **Projectile Tracking Device** | Hardware & Kinematic Math | C++, IMU Sensors, Kalman Filter, Telemetry | Real-time velocity & coordinate tracking |
-| **Cognifyz Dashboard** | Fullstack & Analytics | React 19, D3.js Data Engine, Node.js API | Enterprise density bento hub |
-| **JPMorgan Chase Simulation** | Distributed Finance | Java Parallel Core, Python, Trade Sockets | High-frequency order placement pipeline |
-
----
 
 ## 🚀 Getting Started Locally
 
